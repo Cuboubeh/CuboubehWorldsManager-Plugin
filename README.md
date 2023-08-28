@@ -1,6 +1,6 @@
 # CuboubehWorldsManager
 
-CuboubehWorldsManager est un plugin Minecraft développé pour gérer les mondes et les fonctionnalités associées. Ce plugin vous permet de créer, régénérer, supprimer et explorer différents mondes en jeu.
+CuboubehWorldsManager est un plugin Minecraft qui permet de gérer les mondes et les fonctionnalités associées. Ce plugin vous permet de créer, régénérer, supprimer et explorer différents mondes.
 
 ## Fonctionnalités
 

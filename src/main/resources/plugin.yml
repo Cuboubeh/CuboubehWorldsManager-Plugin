@@ -1,0 +1,18 @@
+name: CuboubehWorldsManager
+version: 1.0-SNAPSHOT
+api-version: 1.20
+author: Cuboubeh
+main: fr.cuboubeh.cuboubehworldsmanager.Main
+commands:
+  worlds:
+    description: Permet de gérer les mondes
+    usage: "/worlds"
+    permission: world.use
+  hub:
+    description: Permet de se téléporter au spawn du monde worlds
+    usage: "/worlds"
+    permission: hub.use
+  minage:
+    description: Permet de se téléporter au monde minage
+    usage: "/minage"
+    permission: minage.use
